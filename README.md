@@ -17,7 +17,7 @@ Ensure the dataset is clean, balanced, and ready for model building by handling 
 ## 📂 Contents
 - `Task_1.ipynb` – Full code and plots
 - `Titanic-Dataset.csv` – Cleaned dataset used
-- `/screenshots/` – Optional visuals of key steps
+- `/screenshots/`   - Optional visuals of key steps
 
 ---
 
